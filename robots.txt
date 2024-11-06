@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izeyuage.github.io/DgY/sitemap_index.txt
+Sitemap: https://izeyuage.github.io/Eac/sitemap_index.txt
+Sitemap: https://izeyuage.github.io/tBP/sitemap_index.txt
+Sitemap: https://izeyuage.github.io/tQm/sitemap_index.txt
